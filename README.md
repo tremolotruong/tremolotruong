@@ -15,7 +15,8 @@ A couple of skills and projects I've worked on along my Astronomy, Physics and C
    + Notable experienced modules: numpy, matplotlib, scipy, subprocess, datetime, psutil, socket, os, discord, astropy, physics, pylatex
    + Caltech's LIGO Gravitational Wave Data Noise Identification, Removal, Cleanup & Modelling
    + Astropy Cosmology & FITS Data Catalog Collection and Classification
-   + Discord Status and Data Report Automated Bot (Sub-Project of Keitt Lab's Biosensing Project)
+   + Discord Status and Data Report Automated Bot
+   + Raspberry Pi Environmental Sensor Zigbee Radio-based Mesh Network
    + Data Structuring & Traversal
    + 2D & 3D Object-Oriented Python
 
@@ -26,8 +27,8 @@ A couple of skills and projects I've worked on along my Astronomy, Physics and C
 
 
 Outside of STEM research, I am also a photographer for the Daily Texan and the Afterglow Music & Arts magazine. My contacts are always open for commission shoots around Austin TX, US and occasionally Saigon, VN. Check my photographic works out in the links below, and don't hesitate to reach out for commission shoots! I do portrait, graduation, street, concert, journalism & breaking news coverage, and more!
-- Behance: behance.net/tremolo
-- Instagram: instagram.com/tremolo_truong
+- Behance: https://www.behance.net/tremolo
+- Instagram: https://www.instagram.com/tremolo_truong
 - Commission: mt.bsnss@gmail.com
 
 
@@ -42,4 +43,4 @@ Contact Information:
 
 - LinkedIn: https://www.linkedin.com/in/tremolo/
 - Email: mt.bsnss@gmail.com
-- Photography Instagram: instagram.com/tremolo_truong
+- Photography Instagram: https://www.instagram.com/tremolo_truong
