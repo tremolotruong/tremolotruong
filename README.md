@@ -34,10 +34,12 @@ Outside of STEM research, I am also a photographer for the Daily Texan and the A
 In my free time, I am also an avid custom mechcanical keyboard builder and enthusiast. My email is also open for recommendations and commission build services, including soldering/desoldering, lubing & filming! Reach out to my email ☝️ for more details, or just to chat about keyboards!
 
 
-
+Contact Information:
 - Mike Truong
 - UT EID - dht473
 - Astronomy & Computational Physics '24
 - The University of Texas at Austin
 
-LinkedIn: https://www.linkedin.com/in/tremolo/
+- LinkedIn: https://www.linkedin.com/in/tremolo/
+- Email: mt.bsnss@gmail.com
+- Photography Instagram: instagram.com/tremolo_truong
