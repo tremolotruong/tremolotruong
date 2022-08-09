@@ -35,9 +35,9 @@ In my free time, I am also an avid custom mechcanical keyboard builder and enthu
 
 
 
-Mike Truong
-UT EID - dht473
-Astronomy & Computational Physics '24
-The University of Texas at Austin
+- Mike Truong
+- UT EID - dht473
+- Astronomy & Computational Physics '24
+- The University of Texas at Austin
 
 LinkedIn: https://www.linkedin.com/in/tremolo/
