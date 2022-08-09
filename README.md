@@ -4,7 +4,7 @@ Hi there! My name is Mike Truong, and I'm currently an Astronomy and Computation
 A couple of skills and projects I've worked on along my Astronomy, Physics and Computer Science journey (updated as of August 2022):
 
 - Java (4 years):
-   + Processing.org: Graphics-based Rendering, Pixel Matrix Traversal, Image Blurring/Deblurring/Sharpening, Game Mechanics
+   + Processing.org: Graphics-based Java 3D Rendering, Pixel Matrix Traversal, Image Blurring/Deblurring/Sharpening, Game Mechanics
 
 - Linux (1 year):
    + Raspberry Pi Raspbian: Discord Status and Data Report Automated Bot (Sub-Project of Keitt Lab's Biosensing Project)
