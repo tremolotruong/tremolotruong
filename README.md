@@ -7,7 +7,7 @@ A couple of skills and projects I've worked on along my Astronomy, Physics and C
    + Processing.org: Graphics-based Java 3D Rendering, Pixel Matrix Traversal, Image Blurring/Deblurring/Sharpening, Game Mechanics
 
 - Linux (1 year):
-   + Raspberry Pi Raspbian: Discord Status and Data Report Automated Bot (Sub-Project of Keitt Lab's Biosensing Project)
+   + Raspberry Pi Raspbian: Discord Status and Data Report Automated Bot
    + Bash Shell
    + Bourne Shell
 
