@@ -37,7 +37,6 @@ In my free time, I am also an avid custom mechcanical keyboard builder and enthu
 
 Contact Information:
 - Mike Truong
-- UT EID - dht473
 - Astronomy & Computational Physics '24
 - The University of Texas at Austin
 
