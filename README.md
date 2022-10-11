@@ -26,7 +26,7 @@ A couple of skills and projects I've worked on along my Astronomy, Physics and C
    + "Cherry on Top - The History of a Modern-Day Anti-IP-Rights Hobby"
 
 
-Outside of STEM research, I am also a photographer for the Daily Texan and the Afterglow Music & Arts magazine. My contacts are always open for commission shoots around Austin TX, US and occasionally Saigon, VN. Check my photographic works out in the links below, and don't hesitate to reach out for commission shoots! I do portrait, graduation, street, concert, journalism & breaking news coverage, and more!
+Outside of STEM research, I am also a photographer for the Daily Texan, the Afterglow Music & Arts magazine, and the Arts & Literature Magazine TheATXReView. My contacts are always open for commission shoots around Austin TX, US and occasionally Saigon, VN. Check my photographic works out in the links below, and don't hesitate to reach out for commission shoots! I do portrait, graduation, street, concert, journalism & breaking news coverage, and more!
 - Behance: https://www.behance.net/tremolo
 - Instagram: https://www.instagram.com/tremolo_truong
 - Commission: mt.bsnss@gmail.com
