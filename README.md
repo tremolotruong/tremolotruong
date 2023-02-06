@@ -6,7 +6,7 @@ A couple of skills and projects I've worked on along my Astronomy, Physics and C
 - Java (5 years):
    + Processing.org: Graphics-based Java 3D Rendering, Pixel Matrix Traversal, Image Blurring/Deblurring/Sharpening, Game Mechanics
 
-- Linux (2 year):
+- Linux (2 years):
    + Raspberry Pi Raspbian: Discord Status and Data Report Automated Bot
    + Bash Shell
    + Bourne Shell
@@ -20,7 +20,7 @@ A couple of skills and projects I've worked on along my Astronomy, Physics and C
    + Data Structuring & Traversal
    + 2D & 3D Object-Oriented Python
 
-- LaTeX (2 year):
+- LaTeX (2 years):
    + Caltech's LIGO Gravitational Wave Data Noise Identification, Removal, Cleanup & Modelling
    + AASTeX-templated drafts of Astropy Cosmology & FITS Data Catalog Collection and Classification.
    + "Cherry on Top - The History of a Modern-Day Anti-IP-Rights Hobby"
